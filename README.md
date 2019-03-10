@@ -6,6 +6,9 @@ Log In page
 
 ![1](https://user-images.githubusercontent.com/45432279/54084710-5eeba880-435e-11e9-94ab-1d25327988e1.PNG)
 
+Registration Page
+
+![reg](https://user-images.githubusercontent.com/45432279/54085188-2e5b3d00-4365-11e9-9ff8-8bf2384d9c8a.PNG)
 
 Home Page
 
